@@ -9,7 +9,7 @@ status: archived
 priority: normal
 version: 0.1.0
 dateCreated: 2026-02-24T00:00
-dateModified: '2026-05-16T00:06:24Z'
+dateModified: 2026-05-16T00:06
 domain: dwm
 monday-item-id: 11449887660 - monday
 focus-areas: []
