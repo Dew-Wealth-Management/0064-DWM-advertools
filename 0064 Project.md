@@ -1,7 +1,7 @@
 ---
 type: projects
 title: advertools
-project-id: '0064'
+project-id: "0064"
 client_abbrev: DWM
 client_name: Dew Wealth Management
 description: Advertools (fork)
@@ -9,7 +9,7 @@ status: archived
 priority: normal
 version: 0.1.0
 dateCreated: 2026-02-24T00:00
-dateModified: 2026-05-16T00:06
+dateModified: '2026-06-30T16:17:43Z'
 domain: dwm
 monday-item-id: 11449887660 - monday
 focus-areas: []
